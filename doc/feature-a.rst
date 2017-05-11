@@ -1,6 +1,6 @@
 
 
-Feature A
+Coolest feature
 =========
 
 Subsection
